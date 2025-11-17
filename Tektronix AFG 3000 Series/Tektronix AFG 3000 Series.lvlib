@@ -24,12 +24,12 @@
 			<Item Name="Configure Modulation (Frequency Shift Keying).vi" Type="VI" URL="/&lt;instrlib&gt;/Tektronix AFG 3000 Series/Public/Configure/Configure Modulation (Frequency Shift Keying).vi"/>
 			<Item Name="Configure Modulation (Frequency).vi" Type="VI" URL="/&lt;instrlib&gt;/Tektronix AFG 3000 Series/Public/Configure/Configure Modulation (Frequency).vi"/>
 			<Item Name="Configure Modulation (Phase).vi" Type="VI" URL="/&lt;instrlib&gt;/Tektronix AFG 3000 Series/Public/Configure/Configure Modulation (Phase).vi"/>
-			<Item Name="Configure Modulation (Pulse Width).vi" Type="VI" URL="/&lt;instrlib&gt;/Tektronix AFG 3000 Series/Public/Configure/Configure Modulation (Pulse Width).vi"/>
+			<Item Name="Configure Modulation (Pulse Width).vi" Type="VI" URL="/&lt;userlib&gt;/Tektronix AFG 3000 Series/Public/Configure/Configure Modulation (Pulse Width).vi"/>
 			<Item Name="Configure Modulation.vi" Type="VI" URL="/&lt;instrlib&gt;/Tektronix AFG 3000 Series/Public/Configure/Configure Modulation.vi"/>
-			<Item Name="Configure Output Impedance.vi" Type="VI" URL="/&lt;instrlib&gt;/Tektronix AFG 3000 Series/Public/Configure/Configure Output Impedance.vi"/>
-			<Item Name="Configure Pulse Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/Tektronix AFG 3000 Series/Public/Configure/Configure Pulse Waveform.vi"/>
+			<Item Name="Configure Output Impedance.vi" Type="VI" URL="/&lt;userlib&gt;/Tektronix AFG 3000 Series/Public/Configure/Configure Output Impedance.vi"/>
+			<Item Name="Configure Pulse Waveform.vi" Type="VI" URL="/&lt;userlib&gt;/Tektronix AFG 3000 Series/Public/Configure/Configure Pulse Waveform.vi"/>
 			<Item Name="Configure Ramp Symmetry.vi" Type="VI" URL="/&lt;instrlib&gt;/Tektronix AFG 3000 Series/Public/Configure/Configure Ramp Symmetry.vi"/>
-			<Item Name="Configure Standard Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/Tektronix AFG 3000 Series/Public/Configure/Configure Standard Waveform.vi"/>
+			<Item Name="Configure Standard Waveform.vi" Type="VI" URL="/&lt;userlib&gt;/Tektronix AFG 3000 Series/Public/Configure/Configure Standard Waveform.vi"/>
 			<Item Name="Configure Sweep Mode.vi" Type="VI" URL="/&lt;instrlib&gt;/Tektronix AFG 3000 Series/Public/Configure/Configure Sweep Mode.vi"/>
 			<Item Name="Configure Trigger.vi" Type="VI" URL="/&lt;userlib&gt;/Tektronix AFG 3000 Series/Public/Configure/Configure Trigger.vi"/>
 			<Item Name="Configure Waveform Modifier.vi" Type="VI" URL="/&lt;instrlib&gt;/Tektronix AFG 3000 Series/Public/Configure/Configure Waveform Modifier.vi"/>
