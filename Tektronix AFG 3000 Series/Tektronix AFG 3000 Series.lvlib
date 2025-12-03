@@ -12,7 +12,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Action-Status" Type="Folder">
 			<Item Name="Action-Status.mnu" Type="Document" URL="/&lt;instrlib&gt;/Tektronix AFG 3000 Series/Public/Action-Status/Action-Status.mnu"/>
-			<Item Name="Clear Arbitrary Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/Tektronix AFG 3000 Series/Public/Action-Status/Clear Arbitrary Waveform.vi"/>
+			<Item Name="Clear Arbitrary Waveform.vi" Type="VI" URL="/&lt;userlib&gt;/Tektronix AFG 3000 Series/Public/Action-Status/Clear Arbitrary Waveform.vi"/>
 			<Item Name="Enable Output.vi" Type="VI" URL="/&lt;userlib&gt;/Tektronix AFG 3000 Series/Public/Action-Status/Enable Output.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
@@ -54,4 +54,6 @@
 		<Item Name="Scale.vi" Type="VI" URL="/&lt;userlib&gt;/Tektronix AFG 3000 Series/Private/Scale.vi"/>
 	</Item>
 	<Item Name="Tektronix AFG 3000 Series Readme.html" Type="Document" URL="/&lt;instrlib&gt;/Tektronix AFG 3000 Series/Tektronix AFG 3000 Series Readme.html"/>
+	<Item Name="Trigger Output.vi" Type="VI" URL="/&lt;userlib&gt;/Tektronix AFG 3000 Series/Public/Action-Status/Trigger Output.vi"/>
+	<Item Name="CheckStatus.vi" Type="VI" URL="/&lt;userlib&gt;/Tektronix AFG 3000 Series/Public/Action-Status/CheckStatus.vi"/>
 </Library>
